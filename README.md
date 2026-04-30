@@ -1,16 +1,38 @@
-## Hi there 👋
+# Oi, eu sou a Bianca 👋
 
-<!--
-**BiaAraujoo007/BiaAraujoo007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia de Software – Cruzeiro do Sul (UDF)
+💻 Aprendendo programação e inteligência artificial
+🚀 Interessada em tecnologia, desenvolvimento e inovação
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 📌 Sobre mim
+
+Atualmente curso Engenharia de Software na Cruzeiro do Sul (UDF) e estou aprendendo sobre o uso de inteligência artificial na programação, explorando ferramentas que ajudam no desenvolvimento de código e no aprendizado.
+
+---
+
+## 🤖 Ferramentas que estou usando
+
+* GitHub
+* Copilot
+* Replit
+* Ghostwriter
+
+---
+
+## 📚 O que estou estudando
+
+* Lógica de programação
+* Desenvolvimento de software
+* Uso de IA como apoio na programação
+* Boas práticas e ética na tecnologia
+
+---
+
+## 📫 Contato
+
+araujoo.bianca007@gmail.com
+
+
 -->
